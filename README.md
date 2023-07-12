@@ -1,6 +1,6 @@
 # The Method FReE for Dimensionality Reduction in Big Data
 
-### This repository contains the results, code, datasets and tools, used to compare two techniques for the Unsupervised Dimensionality Reduction task: (a) the standard and data variance-based approaches (PCA, SVD, and KPCA), and; (b) An alternative Fractal-based solution (FReE).
+This repository contains the results, code, datasets and tools, used to compare two techniques for the Unsupervised Dimensionality Reduction task: (a) the standard and data variance-based approaches (PCA, SVD, and KPCA), and; (b) An alternative Fractal-based solution (FReE).
 
 You can find the materials detailed bellow:
 
