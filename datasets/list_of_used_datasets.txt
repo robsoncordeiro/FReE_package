@@ -1,0 +1,16 @@
+All the used datasets are listed bellow:
+
+Susy: https://archive.ics.uci.edu/ml/datasets/SUSY
+Hepmass: https://archive.ics.uci.edu/ml/datasets/HEPMASS
+WeatherBR: https://www.kaggle.com/PROPPG-PPG/hourly-weather-surface-brazil-southeast-region
+Forex: https://www.kaggle.com/yurisa2/forex-rsi-and-bbpp-multiperiod-m1h4
+Airline: http://stat-computing.org/dataexpo/2009/the-data.html
+HouseHold: https://archive.ics.uci.edu/ml/datasets/Individual+household+electric+power+consumption
+Higgs: https://archive.ics.uci.edu/ml/datasets/HIGGS
+NaturalGas: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/FIE0S4
+Font: https://archive.ics.uci.edu/ml/datasets/Character+Font+Images
+YearPredictionMSD: https://archive.ics.uci.edu/ml/datasets/yearpredictionmsd
+FMA: https://archive.ics.uci.edu/ml/datasets/FMA%3A+A+Dataset+For+Music+Analysis
+
+
+
